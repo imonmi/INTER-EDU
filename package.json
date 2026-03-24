@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "bmad-dashboard": "^1.0.19",
+    "bmad-method": "^6.2.0"
+  }
+}
